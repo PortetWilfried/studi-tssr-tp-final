@@ -14,7 +14,7 @@
 
 > *« Bien. Tous les blocs sont validés. Attention à ne pas oublier de montrer des étapes d'installations et/ou de configurations. »* — Julien DUBOIS, évaluateur
 
-📄 [Livret d'évaluations officiel](docs/01-livret-evaluations-tssr-studi.pdf) — document République Française / Ministère du Travail
+*Livret d'évaluations officiel disponible sur demande (document République Française / Ministère du Travail).*
 
 ## Activités-types validées
 
@@ -206,8 +206,8 @@ Writing running-config...
 
 ## 📂 Livrables
 
-- 📄 [**Livret d'évaluations officiel (Ministère du Travail)**](docs/01-livret-evaluations-tssr-studi.pdf) — preuve de validation des activités-types + note 16,4/20
 - 📄 [**Documentation technique complète du TP (20 pages)**](docs/02-documentation-technique-tp.pdf) — version PDF propre avec toutes les captures (AD, DHCP, GLPI, LDAP, GPO, Packet Tracer)
+- 📋 *Livret d'évaluations officiel (Ministère du Travail) disponible sur demande*
 
 ## 🎓 Position de ce diplôme dans mon parcours
 
