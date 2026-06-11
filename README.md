@@ -206,8 +206,8 @@ Writing running-config...
 
 ## 📂 Livrables
 
-- 📄 [**Livret d'évaluations officiel (Ministère du Travail)**](docs/01-livret-evaluations-tssr-studi.pdf) — preuve de validation des activités-types
-- 📄 [**Documentation technique du TP**](docs/02-documentation-technique-tp.docx) — Word source
+- 📄 [**Livret d'évaluations officiel (Ministère du Travail)**](docs/01-livret-evaluations-tssr-studi.pdf) — preuve de validation des activités-types + note 16,4/20
+- 📄 [**Documentation technique complète du TP (20 pages)**](docs/02-documentation-technique-tp.pdf) — version PDF propre avec toutes les captures (AD, DHCP, GLPI, LDAP, GPO, Packet Tracer)
 
 ## 🎓 Position de ce diplôme dans mon parcours
 
